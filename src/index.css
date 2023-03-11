@@ -1,0 +1,64 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+
+@font-face {
+	font-family: "Circular Sp Vit Black Italic Web";
+	src: url("/public/assets/fonts/Circular\ Sp\ Vit\ Web\ Black\ Italic.woff") format("woff"),
+		 url("/public/assets/fonts/Circular\ Sp\ Vit\ Web\ Black\ Italic.woff2") format("woff2");
+}
+
+@font-face {
+	font-family: "Circular Sp Vit Black Web";
+	src: url("/public/assets/fonts/Circular\ Sp\ Vit\ Web\ Black.woff") format("woff"),
+		 url("/public/assets/fonts/Circular\ Sp\ Vit\ Web\ Black.woff2") format("woff2");
+}
+
+@font-face {
+	font-family: "Circular Sp Vit Bold Italic Web";
+	src: url("/public/assets/fonts/Circular\ Sp\ Vit\ Web\ Bold\ Italic.woff") format("woff"),
+		 url("/public/assets/fonts/Circular\ Sp\ Vit\ Web\ Bold\ Italic.woff2") format("woff2");
+}
+
+@font-face {
+	font-family: "Circular Sp Vit Bold Web";
+	src: url("/public/assets/fonts/Circular\ Sp\ Vit\ Web\ Bold.woff") format("woff"),
+		 url("/public/assets/fonts/Circular\ Sp\ Vit\ Web\ Bold.woff2") format("woff2");
+}
+
+@font-face {
+	font-family: "Circular Sp Vit Book Italic Web";
+	src: url("/public/assets/fonts/Circular\ Sp\ Vit\ Web\ Book\ Italic.woff") format("woff"),
+		 url("/public/assets/fonts/Circular\ Sp\ Vit\ Web\ Book\ Italic.woff2") format("woff2");
+}
+
+@font-face {
+	font-family: "Circular Sp Vit Book Web";
+	src: url("/public/assets/fonts/Circular\ Sp\ Vit\ Web\ Book.woff") format("woff"),
+		 url("/public/assets/fonts/Circular\ Sp\ Vit\ Web\ Book.woff2") format("woff2");
+}
+
+@font-face {
+	font-family: "Circular Sp Vit Light Italic Web";
+	src: url("/public/assets/fonts/Circular\ Sp\ Vit\ Web\ Light\ Italic.woff") format("woff"),
+		 url("/public/assets/fonts/Circular\ Sp\ Vit\ Web\ Light\ Italic.woff2") format("woff2");
+}
+
+@font-face {
+	font-family: "Circular Sp Vit Light Web";
+	src: url("/public/assets/fonts/Circular\ Sp\ Vit\ Web\ Light.woff") format("woff"),
+		 url("/public/assets/fonts/Circular\ Sp\ Vit\ Web\ Light.woff2") format("woff2");
+}
+
+@font-face {
+	font-family: "Circular Sp Vit Medium Italic Web";
+	src: url("/public/assets/fonts/Circular\ Sp\ Vit\ Web\ Medium\ Italic.woff") format("woff"),
+		 url("/public/assets/fonts/Circular\ Sp\ Vit\ Web\ Medium\ Italic.woff2") format("woff2");
+}
+
+@font-face {
+	font-family: "Circular Sp Vit Medium Web";
+	src: url("/public/assets/fonts/Circular\ Sp\ Vit\ Web\ Medium.woff") format("woff"),
+		 url("/public/assets/fonts/Circular\ Sp\ Vit\ Web\ Medium.woff2") format("woff2");
+}
